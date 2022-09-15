@@ -44,4 +44,8 @@ footer{
     background-color: rgb(112, 95, 160);
 }
 
-
+#ImgRedonda{
+    height: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
