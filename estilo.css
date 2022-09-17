@@ -30,7 +30,6 @@ nav > a:hover{
     background-color: rgba(194, 120, 120, 0.664)
 }
 
-
 main{
     background-color: #FFBE88;
 }
@@ -48,4 +47,35 @@ footer{
     height: 250px;
     height: 250px;
     border-radius: 50%;
+}
+
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+
+
+div{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Identificação h2{
+    background-color: rgb(100, 65, 228);
+}
+
+#Hobbies h2{
+    background-color: rgb(100, 65, 228);
+}
+
+#Experiência h2{
+    background-color: rgb(100, 65, 228);
+}
+
+#Formação h2{
+    background-color: rgb(100, 65, 228);
 }
